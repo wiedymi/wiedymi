@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/39/55/31/3955311309c5a77fbaaa38af97e35e8c.gif" width="140" /> 
+  <img src="https://www.icegif.com/wp-content/uploads/pusheen-icegif-22.gif" width="140" /> 
  
   ### Anyahao, simply call me Vivy!
   I'm a **software engineer**, and **open-source** maintainer.<br />
