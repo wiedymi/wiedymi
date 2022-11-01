@@ -14,4 +14,8 @@
   <br />
   <br />
   If you want to support me, check my page on https://boosty.to/vivy
+  <br />
+  <br />
+  ![Alvaro Vasconcelos github stats](https://github-readme-stats.vercel.app/api?username=wiedymi&show_icons=true&theme=dracula)
 </div>
+
