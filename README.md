@@ -1,21 +1,14 @@
-<div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/pusheen-icegif-22.gif" width="140" /> 
- 
-  ### Anyahao, simply call me Vivy!
-  I'm a **software engineer**, and **open-source** maintainer.<br />
-  I'm working on my apps and developing tools to support **Belarusian** language.
-  <br />
-  <br />
-  All my works can be found here: [vivy.app](https://vivy.app)
-  <br />
-  <br />
-  I'm highly interested in creating an AI assistent (aka Siri) for belarusian language.<br />
-  So I am learning more about Data Scince, and ML tools such as TensorFlow & PyTorch in the meantime.
-  <br />
-  <br />
-  If you want to support me, check my page on https://boosty.to/vivy
-  <br />
-  <br />
-  ![Alvaro Vasconcelos github stats](https://github-readme-stats.vercel.app/api?username=wiedymi&show_icons=true&theme=dracula&locale=en&hide_border=true)
-</div>
+# Wiedy Mi
+I create things I want to exist
 
+Create [VivySub](https://vivysub.app), next-gen Subtitle Editor designed with collaboration and AI in mind.
+
+<p align=center>
+  <img src="https://github.com/user-attachments/assets/65d86e39-3797-4bc2-86ea-bb52d7071314" alt="wiedymi's waifu" />
+</p>
+
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,bun,nodejs,react,nextjs,tailwind,tauri,swift,rust,flutter,graphql,postgresql,mongodb,redis,docker,cloudflare,aws,gcp,vite,vitest,sentry,elysia" />
+  </a>
+</p>
