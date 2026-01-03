@@ -1,6 +1,11 @@
 # Wiedy Mi
 I create things I want to exist
 
+[![GitHub](https://img.shields.io/badge/GitHub-wiedymi-181717?logo=github)](https://github.com/wiedymi)
+[![Twitter](https://img.shields.io/badge/Twitter-wiedymi-1DA1F2?logo=twitter&logoColor=white)](https://x.com/wiedymi)
+[![Email](https://img.shields.io/badge/Email-contact@wiedymi.com-EA4335?logo=gmail&logoColor=white)](mailto:contact@wiedymi.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Support%20me-ff69b4?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vivy-company)
+
 <p align=center>
   <img src="https://github.com/user-attachments/assets/65d86e39-3797-4bc2-86ea-bb52d7071314" alt="wiedymi's waifu" />
 </p>
