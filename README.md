@@ -1,10 +1,15 @@
 # Hi, I'm Wiedy Mi
 I create things I want to exist
 
-[![GitHub](https://img.shields.io/badge/GitHub-wiedymi-181717?logo=github)](https://github.com/wiedymi)
-[![Twitter](https://img.shields.io/badge/Twitter-wiedymi-1DA1F2?logo=twitter&logoColor=white)](https://x.com/wiedymi)
-[![Email](https://img.shields.io/badge/Email-contact@wiedymi.com-EA4335?logo=gmail&logoColor=white)](mailto:contact@wiedymi.com)
-[![Sponsor](https://img.shields.io/badge/Sponsor-Support%20me-ff69b4?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vivy-company)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wiedymi)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/wiedymi)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@wiedymi.com)
+[![Sponsor](https://img.shields.io/badge/-Support%20me-ff69b4?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vivy-company)
 
 <p align=center>
   <img src="https://github.com/user-attachments/assets/65d86e39-3797-4bc2-86ea-bb52d7071314" alt="wiedymi's waifu" />
