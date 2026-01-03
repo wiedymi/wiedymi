@@ -1,4 +1,4 @@
-# Wiedy Mi
+# Hi, I'm Wiedy Mi
 I create things I want to exist
 
 [![GitHub](https://img.shields.io/badge/GitHub-wiedymi-181717?logo=github)](https://github.com/wiedymi)
