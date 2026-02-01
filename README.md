@@ -16,13 +16,14 @@ I create things I want to exist
 - [Numby](https://numby.vivy.app) — Natural language calculator with CLI and TUI
 
 ### Personal
-- [Aestia](https://aestia.dev) — Personal AI assistant on Discord, Telegram, and macOS
+- [Aestia](https://aestia.dev) — Personal assistant, fully custom
 
 ### Libs
 - [text-shaper](https://text-shaper.pages.dev) — Pure TypeScript text shaping engine
 - [subforge](https://subforge.pages.dev) — Ultra-fast subtitle toolkit for parsing and converting
 - [mediafox](https://mediafox.pages.dev) — Framework-agnostic media player
 - [applemusic-cli](https://github.com/wiedymi/applemusic-cli) — Control Apple Music from the terminal
+- [swift-acp](https://github.com/wiedymi/swift-acp) — Swift SDK for the Agent Client Protocol (ACP)
 
 ---
 
