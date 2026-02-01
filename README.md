@@ -16,9 +16,6 @@ I create things I want to exist
 - [VivySub](https://vivysub.com) — Next-gen subtitle editor with collaboration and AI
 - [VVTerm](https://vvterm.com) — Ghostty-powered SSH client for iOS, iPad, macOS
 
-### Personal
-- [Aestia](https://aestia.dev) — Personal assistant, fully custom
-
 ### Libs
 - [applemusic-cli](https://github.com/wiedymi/applemusic-cli) — Control Apple Music from the terminal
 - [mediafox](https://mediafox.pages.dev) — Framework-agnostic media player
@@ -26,6 +23,9 @@ I create things I want to exist
 - [subframe](https://github.com/wiedymi/subframe) — Subtitle renderer with libass parity for web and Bun
 - [swift-acp](https://github.com/wiedymi/swift-acp) — Swift SDK for the Agent Client Protocol (ACP)
 - [text-shaper](https://text-shaper.pages.dev) — Pure TypeScript text shaping engine
+
+### Personal
+- [Aestia](https://aestia.dev) — Personal assistant, fully custom
 
 ---
 
