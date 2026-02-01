@@ -11,6 +11,7 @@ I create things I want to exist
 </p>
 
 ### Apps
+- [VVTerm](https://vvterm.com) — Ghostty-powered SSH client for iOS, iPad, macOS
 - [VivySub](https://vivysub.com) — Next-gen subtitle editor with collaboration and AI
 - [Aizen](https://aizen.win) — Bring order to your repos. Switch worktrees, not windows
 - [Numby](https://numby.vivy.app) — Natural language calculator with CLI and TUI
