@@ -23,6 +23,7 @@ I create things I want to exist
 - [subframe](https://github.com/wiedymi/subframe) — Subtitle renderer with libass parity for web and Bun
 - [swift-acp](https://github.com/wiedymi/swift-acp) — Swift SDK for the Agent Client Protocol (ACP)
 - [text-shaper](https://text-shaper.pages.dev) — Pure TypeScript text shaping engine
+- [vvbox](https://github.com/wiedymi/vvbox) — Lightweight sandbox runner for macOS
 
 ### Personal
 - [Aestia](https://aestia.dev) — Personal assistant, fully custom
