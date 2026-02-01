@@ -23,6 +23,7 @@ I create things I want to exist
 - [applemusic-cli](https://github.com/wiedymi/applemusic-cli) — Control Apple Music from the terminal
 - [mediafox](https://mediafox.pages.dev) — Framework-agnostic media player
 - [subforge](https://subforge.pages.dev) — Ultra-fast subtitle toolkit for parsing and converting
+- [subframe](https://github.com/wiedymi/subframe) — Subtitle renderer with libass parity for web and Bun
 - [swift-acp](https://github.com/wiedymi/swift-acp) — Swift SDK for the Agent Client Protocol (ACP)
 - [text-shaper](https://text-shaper.pages.dev) — Pure TypeScript text shaping engine
 
