@@ -11,24 +11,24 @@ I create things I want to exist
 </p>
 
 ### Apps
-- [VVTerm](https://vvterm.com) — Ghostty-powered SSH client for iOS, iPad, macOS
-- [VivySub](https://vivysub.com) — Next-gen subtitle editor with collaboration and AI
 - [Aizen](https://aizen.win) — Bring order to your repos. Switch worktrees, not windows
 - [Numby](https://numby.vivy.app) — Natural language calculator with CLI and TUI
+- [VivySub](https://vivysub.com) — Next-gen subtitle editor with collaboration and AI
+- [VVTerm](https://vvterm.com) — Ghostty-powered SSH client for iOS, iPad, macOS
 
 ### Personal
 - [Aestia](https://aestia.dev) — Personal assistant, fully custom
 
 ### Libs
-- [text-shaper](https://text-shaper.pages.dev) — Pure TypeScript text shaping engine
-- [subforge](https://subforge.pages.dev) — Ultra-fast subtitle toolkit for parsing and converting
-- [mediafox](https://mediafox.pages.dev) — Framework-agnostic media player
 - [applemusic-cli](https://github.com/wiedymi/applemusic-cli) — Control Apple Music from the terminal
+- [mediafox](https://mediafox.pages.dev) — Framework-agnostic media player
+- [subforge](https://subforge.pages.dev) — Ultra-fast subtitle toolkit for parsing and converting
 - [swift-acp](https://github.com/wiedymi/swift-acp) — Swift SDK for the Agent Client Protocol (ACP)
+- [text-shaper](https://text-shaper.pages.dev) — Pure TypeScript text shaping engine
 
 ---
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
