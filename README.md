@@ -19,9 +19,11 @@ I create things I want to exist
 ### Libs
 - [applemusic-cli](https://github.com/wiedymi/applemusic-cli) — Control Apple Music from the terminal
 - [mediafox](https://mediafox.pages.dev) — Framework-agnostic media player
+- [restty](https://github.com/wiedymi/restty) — Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper.
 - [subforge](https://subforge.pages.dev) — Ultra-fast subtitle toolkit for parsing and converting
 - [subframe](https://github.com/wiedymi/subframe) — Subtitle renderer with libass parity for web and Bun
 - [swift-acp](https://github.com/wiedymi/swift-acp) — Swift SDK for the Agent Client Protocol (ACP)
+- [swift-mosh](https://github.com/wiedymi/swift-mosh) — Pure Swift implementation of Mosh protocol/client stack for Apple platforms
 - [text-shaper](https://text-shaper.pages.dev) — Pure TypeScript text shaping engine
 - [vvbox](https://github.com/wiedymi/vvbox) — Lightweight sandbox runner for macOS
 
