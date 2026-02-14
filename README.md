@@ -6,9 +6,6 @@ I create things I want to exist
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@wiedymi.com)
 [![Sponsor](https://img.shields.io/badge/-Support%20me-ff69b4?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vivy-company)
 
-If you want to support me, please support [Vivy Company on GitHub Sponsors](https://github.com/sponsors/vivy-company).
-It is currently the only way I can receive financial support.
-
 <p align=center>
   <img src="https://github.com/user-attachments/assets/65d86e39-3797-4bc2-86ea-bb52d7071314" alt="wiedymi's waifu" />
 </p>
@@ -40,3 +37,7 @@ It is currently the only way I can receive financial support.
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+If you want to support me, please sponsor [@vivy-company](https://github.com/vivy-company) on [GitHub Sponsors](https://github.com/sponsors/vivy-company). It is the only way I can receive financial support.
