@@ -25,6 +25,7 @@ I create things I want to exist
 - [swift-acp](https://github.com/wiedymi/swift-acp) — Swift SDK for the Agent Client Protocol (ACP)
 - [swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) — Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms
 - [swift-mosh](https://github.com/wiedymi/swift-mosh) — Pure Swift implementation of Mosh protocol/client stack for Apple platforms
+- [swift-umami](https://github.com/wiedymi/swift-umami) — Swift SDK for the Umami API, focused first on Apple-platform dashboard apps
 - [text-shaper](https://text-shaper.pages.dev) — Pure TypeScript text shaping engine
 - [vvbox](https://github.com/wiedymi/vvbox) — Lightweight sandbox runner for macOS
 
