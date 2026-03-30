@@ -18,6 +18,7 @@ I create things I want to exist
 
 ### Libs
 - [applemusic-cli](https://github.com/wiedymi/applemusic-cli) — Control Apple Music from the terminal
+- [libghostty-ohos](https://github.com/wiedymi/libghostty-ohos) — HarmonyOS HAR library for embedding a Ghostty-powered terminal surface with native rendering, IME, search, and theme support
 - [mediafox](https://mediafox.pages.dev) — Framework-agnostic media player
 - [restty](https://github.com/wiedymi/restty) — Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper.
 - [subforge](https://subforge.pages.dev) — Ultra-fast subtitle toolkit for parsing and converting
