@@ -15,6 +15,7 @@ I create things I want to exist
 - [Numby](https://numby.vivy.app) — Natural language calculator with CLI and TUI
 - [VivySub](https://vivysub.com) — Next-gen subtitle editor with collaboration and AI
 - [VVTerm](https://vvterm.com) — Ghostty-powered SSH client for iOS, iPad, macOS
+- [VivyShot](https://vivyshot.com) — Native macOS app for screen capture, annotation, redaction, and recording
 
 ### Libs
 - [applemusic-cli](https://github.com/wiedymi/applemusic-cli) — Control Apple Music from the terminal
@@ -25,10 +26,14 @@ I create things I want to exist
 - [subframe](https://github.com/wiedymi/subframe) — Subtitle renderer with libass parity for web and Bun
 - [swift-acp](https://github.com/wiedymi/swift-acp) — Swift SDK for the Agent Client Protocol (ACP)
 - [swift-cloudflared](https://github.com/wiedymi/swift-cloudflared) — Pure Swift Cloudflare Access TCP tunnel SDK for SSH clients on Apple platforms
+- [swift-et](https://github.com/wiedymi/swift-et) — Pure Swift Eternal Terminal protocol client for Apple platforms
 - [swift-mosh](https://github.com/wiedymi/swift-mosh) — Pure Swift implementation of Mosh protocol/client stack for Apple platforms
+- [swift-plausible](https://github.com/wiedymi/swift-plausible) — Swift SDK for the Plausible Analytics API for Apple platforms
 - [swift-umami](https://github.com/wiedymi/swift-umami) — Swift SDK for the Umami API, focused first on Apple-platform dashboard apps
 - [text-shaper](https://text-shaper.pages.dev) — Pure TypeScript text shaping engine
-- [vvbox](https://github.com/wiedymi/vvbox) — Lightweight sandbox runner for macOS
+
+### Experiments
+- [ass-rs](https://github.com/wiedymi/ass-rs) — A modular, high-performance Rust implementation of the ASS (Advanced SubStation Alpha) subtitle format
 
 ### Personal
 - [Aestia](https://aestia.dev) — Personal assistant, fully custom
