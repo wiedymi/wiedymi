@@ -17,8 +17,11 @@ I create things I want to exist
 - [VVTerm](https://vvterm.com) — Ghostty-powered SSH client for iOS, iPad, macOS
 - [VivyShot](https://vivyshot.com) — Native macOS app for screen capture, annotation, redaction, and recording
 
-### Libs
+### CLI / TUI
 - [applemusic-cli](https://github.com/wiedymi/applemusic-cli) — Control Apple Music from the terminal
+- [shu](https://github.com/wiedymi/shu) — A tiny, declarative, agent-friendly library for your Git repositories
+
+### Libs
 - [libghostty-ohos](https://github.com/wiedymi/libghostty-ohos) — HarmonyOS HAR library for embedding a Ghostty-powered terminal surface with native rendering, IME, search, and theme support
 - [mediafox](https://mediafox.pages.dev) — Framework-agnostic media player
 - [restty](https://github.com/wiedymi/restty) — Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper.
